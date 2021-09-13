@@ -1,6 +1,6 @@
 # Listlength
 
-**TODO: Add description**
+Exercise 1 of Elixir road of Rocketseat Ignite program
 
 ## Installation
 
